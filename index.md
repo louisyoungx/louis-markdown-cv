@@ -79,7 +79,7 @@ _前端/后端开发/项目运维 测光学院学工处_<br>
 
 9.使用Photoshop进行UI设计，有良好的美术与艺术设计功底。
 
-
+<br>
 ## 开源项目及作品
 
 ### **Turbon Manager(web进程管理器)** `2021.07 - 2021.09`
@@ -87,8 +87,8 @@ _前端/后端开发/项目运维 测光学院学工处_<br>
 _全栈开发_ `南昌`<br>
 项目描述:云原生时代的服务器web进程管理器，可查看应用进程概况，进程性能监视，系统资源情况，并可启动/关闭项目进程。<br>
 项目特点:全部采用原生技术栈，未使用任何框架，前后端分离。前端部分css原生绘制页面布局，原生JavaScript操作DOM，用模版字 符串渲染HTML。后端部分采用自己搭建的框架，实现对进程的管理，并通过自己搭建的web api框架开放出接口。<br>
-在线演示: https://turbon.rocke.top<br>
-仓库链接: https://gitee.com/louisyoungx/turbon-manager
+在线演示: [https://turbon.rocke.top](https://turbon.rocke.top)<br>
+仓库链接: [https://gitee.com/louisyoungx/turbon-manager](https://gitee.com/louisyoungx/turbon-manager)
 
 ### **Pulse-Connect-Analyze(光学脉搏传感器APP)** `2020.01 - 2021.12`
 
@@ -96,17 +96,17 @@ _前端开发/服务器端开发_ `南昌`<br>
 项目描述:实验室光学脉搏传感器的APP上位机，实时显示传感器的脉搏数据。<br>
 项目特点:Hybrid混合App，用Vue-Cli/Vue-Router/Vuex开发全部前端页面，实现移动端web端多端部署，API全部采用WebSocket 通信，并且实现在服务器分离部署。<br>
 技术栈:Vue-Cli/Vue-Router/Vuex/ECharts/Python<br>
-前端代码: https://gitee.com/louisyoungx/pulse-connect-analyse<br>
-服务器端代码: https://gitee.com/louisyoungx/tcp-transfer-server
+前端代码: [https://gitee.com/louisyoungx/pulse-connect-analyse](https://gitee.com/louisyoungx/pulse-connect-analyse)<br>
+服务器端代码: [https://gitee.com/louisyoungx/tcp-transfer-server](https://gitee.com/louisyoungx/tcp-transfer-server)
 
 ### **Louis的小屋(个人网站)** `2020.07 - 2020.09`
 
 _全栈开发_ `南昌`<br>
 项目描述:个人网站，响应式布局，且实现部署前后端分离，前端用nginx部署Vue-cli，配置ssl证书实现https加密，后端API由Django 提供并部署在uwsgi<br>
 项目特点:全栈开发，用Vue开发全部前端页面，开发全部后端API，并且实现在服务器分离部署，实现真正的前后端分离。且引入了分布 式数据库和分布式文件存储系统，解决分布式服务器的问题，实现了nginx负载均衡。但未做性能优化，首页加载慢<br>
-在线演示: https://louisyoung.work<br>
-前端代码: https://gitee.com/louisyoungx/louis-house-frontend<br>
-后端代码: https://gitee.com/louisyoungx/louis-house-backend
+在线演示: [https://louisyoung.work](https://louisyoung.work)<br>
+前端代码: [https://gitee.com/louisyoungx/louis-house-frontend](https://gitee.com/louisyoungx/louis-house-frontend)<br>
+后端代码: [https://gitee.com/louisyoungx/louis-house-backend](https://gitee.com/louisyoungx/louis-house-backend)
 
 
 <!-- ### Footer
