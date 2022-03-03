@@ -12,7 +12,7 @@ github:
   text: github.com/louisyoungx
 ---
 
-# 刘洋兴
+# Louis Young
 
 <!--
 include contact information from the front matter
@@ -43,16 +43,16 @@ Supported arguments:
 ### **南昌龙孚科技有限公司** `2021.12 - 至今`
 
 _前端开发实习生_<br>
-**前端微架构ERP系统**。主要工作是负责ERP系统前端报表模块的技术选型架构设计与开发工作，期间完成根据项目定制完成了代码生成器，大幅加快了项目进度推进。在公司工作期间产出多篇[技术文章](https://rocke.top)，并负责主导公司的Linux初级培训。
+**前端微架构ERP系统**。主要工作是负责ERP系统前端报表模块的技术选型架构设计与开发工作，期间完成根据项目定制完成了代码生成器根据配置生成重复页面，大幅推进了项目进度。在公司工作期间产出多篇[技术文章](https://rocke.top)，并负责主导公司的Linux初级培训。
 
-### **光纤传感实验室** `2020.09 - 2021.12`
+### **光纤传感实验室** `2020.09 - 2021.09`
 
-_主导前端/服务器开发 国防楼408实验室_<br>
+_主导前端/服务器开发 南昌航空大学国防楼408 - 光纤传感实验室_<br>
 **[面向光纤传感的人体生命体征APP](https://github.com/louisyoungx/pulse-connect-analyse)**可以实现实时的脉搏信号收集，能从传感器中接收脉搏信号绘制波形图，能识别脉搏的部分特征点。由[万生鹏教授](https://dscx.yjs.nchu.edu.cn/homepage/103.html)指导，我负责与硬件团队对接底层需求，独立设计[服务器架构](https://github.com/louisyoungx/tcp-transfer-server)与部署项目，根据需求设计前端原型/UI，并进行前端/客户端开发。
 
-### **测光学院技术顾问** `2021.09 - 至今`
+### **测光学院技术顾问** `2021.09 - 2021.12`
 
-_前端/后端开发/项目运维 测光学院学工处_<br>
+_前端/后端开发/项目运维 南昌航空大学F教学楼测光学院学工处_<br>
 **[学生课业帮扶系统](https://github.com/louisyoungx/tutorial-mana-frontend)** 是旨在联系挂科学生与导师的预约帮扶系统。由学工办主任陈果执导, 我负责与学院具体项目需求对接，出具详细需求文档。根据需求文档进行技术选型，数据表设计，原型与UI设计。进行[前端](https://github.com/louisyoungx/tutorial-mana-frontend)与[后端](https://github.com/louisyoungx/tutorial-mana-backend)全栈开发，项目部署到Linux云服务器。<br>
 [在线演示](http://tutorial.rocke.top/) 账号:18085132 链接: [http://tutorial.rocke.top/](http://tutorial.rocke.top/) <br>
 [后台管理](http://tutorial.rocke.top:8083/admin/) 账号:tutorial，密码:TutorialManage 链接: [http://tutorial.rocke.top:8083/admin/](http://tutorial.rocke.top:8083/admin/)
@@ -61,21 +61,21 @@ _前端/后端开发/项目运维 测光学院学工处_<br>
 
 ## 专业技能
 
-1.熟悉各种Web前端技术，包括HTML/CSS/JS等，有基于Ajax的前端应用开发经验。熟悉ECMAScript，DOM，BOM。
+1.熟悉各种Web前端技术，包括HTML/CSS/JS等，有丰富的Ajax前端应用开发经验。熟悉ECMAScript，DOM，BOM。
 
-2.掌握Vue前端框架，了解Vue底层原理实现。掌握Vue生态常用工具，vuex/vue-router。
+2.掌握Vue前端框架，熟悉Vue底层原理实现。熟悉composition api。了解Vue生态常用工具，vuex/vue-router。
 
 3.熟练掌握Git版本控制，模块化思想，有良好的代码规范。
 
-4.了解前端工程化，能配置Webpack，Vite。能基于ESM进行原生无框架JavaScript开发。
+4.热爱开源，熟悉开源项目参与运作流程，所有repo获得接近1200star。
 
-5.热爱开源，了解开源项目参与运行流程，所有repo获得接近300star。
+5.了解前端工程化，能使用基于ESM的Webpack或Vite进行原生无框架JavaScript开发。
 
-6.首页性能优化，SEO，PWA，SSL配置。
+6.了解函数式编程，能使用TypeScript，基础React和Hooks。
 
-7.熟练掌握Python后端/运维/系统开发。维护了两个Python第三方库。
+7.熟练掌握Python后端/运维/系统开发。维护了两个Python库。
 
-8.熟悉常用Linux命令，能独立进行Linux服务器自动化部署仓库，开发有Linux PaaS运维平台，稳定运行一年。
+8.熟练掌握常用Linux命令，曾负责公司的Linux基础培训。
 
 9.使用Photoshop进行UI设计，有良好的美术与艺术设计功底。
 
